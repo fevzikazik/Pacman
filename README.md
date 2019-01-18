@@ -1,8 +1,8 @@
 # Pacman
 Python ile Pacman Çalışması
 
-![T3](https://lh6.googleusercontent.com/ciHpTzM51ZL0w39AbrtY06C3VWummvxL-IJiEwULvoQQVXdcouASCoULAbvdd_mkZjH2D3Buw50_zqYcfDxf=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1Axa5C7pElX2lskiUVTMs_h3et6JfxD-v)
 
-![T3](https://lh4.googleusercontent.com/WWPB65OY0zfgq9rbAoHHeMwRlQyrJF02YpH3ZyY4fnzc4lfFBQIqJ9dp3hVbrTSQMoYm3iYdnLvJlcxrwnrX=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1MRF2X4vAWvPJSSfn8vy0Ad299LabTM_3)
 
-![T3](https://lh6.googleusercontent.com/CHJ65y8isBodiFSWwUX5WvpaMS5METiKgfURs_hn0QzdcUszJu-Oe0pGSbuN05EtPh6LjJVBTeJPlQGJtXDt=w1920-h938)
+![T3](http://drive.google.com/uc?export=view&id=1babL2r6VMt0KYNyCw5upUFTzKyC-9lMK)
